@@ -9,6 +9,7 @@ const Header = () => {
       <nav className="bg-indigo-950 border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800 text-white">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <a href="https://flowbite.com" className="flex items-center">
+           {/* eslint-disable-next-line */}
             <img
               src="https://upload.wikimedia.org/wikipedia/id/6/66/Logo_Super_Indo.png"
               className="mr-3 h-6 sm:h-9"

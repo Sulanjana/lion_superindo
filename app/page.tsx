@@ -34,6 +34,7 @@ export default async function Home() {
             className="w-full max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-5"
           >
             <a href="#" className="flex justify-center">
+              {/* eslint-disable-next-line */}
               <img
                 className="p-8 rounded-t-lg h-64"
                 src="https://upload.wikimedia.org/wikipedia/id/6/66/Logo_Super_Indo.png"
